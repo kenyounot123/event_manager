@@ -1,18 +1,18 @@
 # event_manager
 After completing this tutorial, you will be able to:
 
-manipulate file input and output 
+manipulate file input and output \
 
-read content from a CSV (Comma Separated Value) file
+read content from a CSV (Comma Separated Value) file \
 
-transform it into a standardized format
+transform it into a standardized format \
 
-utilize the data to contact a remote service
+utilize the data to contact a remote service\  
 
-populate a template with user data
+populate a template with user data\
 
-manipulate strings
+manipulate strings\
 
 access Google’s Civic Information API through the Google API Client Gem
 
-use ERB (Embedded Ruby) for templating
+use ERB (Embedded Ruby) for templating\
